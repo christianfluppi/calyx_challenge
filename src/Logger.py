@@ -1,7 +1,7 @@
 '''
-Created on 8/7/2015
+Created on 28 nov. 2022
 
-@author: gvillada
+@author: Christian Luppi
 '''
 
 import logging

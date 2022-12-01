@@ -2,7 +2,7 @@
 '''
 Created on 28 nov. 2022
 
-@author: cluppi
+@author: Christian Luppi
 '''
 from datetime import datetime
 from Logger import Logger
