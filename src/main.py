@@ -60,10 +60,6 @@ class Examen (object):
             self.logger.error("Error al abrir el archivo")
             exit (1)
 
-
-
-
-
 if __name__ == '__main__':
     logger = Logger("../log", "Examen", dateFormat="%Y%m", timeFormat="")
     logger.info("-----------------------------------------------------------------------------------")    
